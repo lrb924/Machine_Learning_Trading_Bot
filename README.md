@@ -42,6 +42,8 @@ SVM Plot Using Tuned Months
 
 The tuned model using a longer months offset of 6 months also produced slightly higher returns than the actual returns.
 
+This model returned the best results overall when compared to the other models that were run.
+
 SVM Plot Using Tuned Months and Windows
 ![SVM Plot 6 Months and Tuned Windows](https://github.com/lrb924/Machine_Learning_Trading_Bot/blob/main/Resources/SVM_6_Months_Updated_Windows.png)
 
